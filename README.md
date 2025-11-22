@@ -1,5 +1,6 @@
 # DangoOS-PC
 Dango README v. 1.192 11/21/2025 M/D/Y
+ALL VERSIONS ARE IN THE RELEASES TAB. https://github.com/TutorialCatGames/DangoOS-PC/releases/
 1. Debugging
    1.1. debug()
    1.2. stdebug()
